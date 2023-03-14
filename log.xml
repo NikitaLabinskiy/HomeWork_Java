@@ -1,0 +1,304 @@
+<?xml version="1.0" encoding="windows-1251" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-03-14T14:13:33.630919300Z</date>
+  <millis>1678803213630</millis>
+  <nanos>919300</nanos>
+  <sequence>0</sequence>
+  <logger>HomeWorkSeminar2.Task2</logger>
+  <level>INFO</level>
+  <class>HomeWorkSeminar2.Task2</class>
+  <method>SortArray</method>
+  <thread>1</thread>
+  <message>Cycle iteration!</message>
+</record>
+<record>
+  <date>2023-03-14T14:13:33.701040700Z</date>
+  <millis>1678803213701</millis>
+  <nanos>40700</nanos>
+  <sequence>1</sequence>
+  <logger>HomeWorkSeminar2.Task2</logger>
+  <level>INFO</level>
+  <class>HomeWorkSeminar2.Task2</class>
+  <method>SortArray</method>
+  <thread>1</thread>
+  <message>Cycle iteration!</message>
+</record>
+<record>
+  <date>2023-03-14T14:13:33.701040700Z</date>
+  <millis>1678803213701</millis>
+  <nanos>40700</nanos>
+  <sequence>2</sequence>
+  <logger>HomeWorkSeminar2.Task2</logger>
+  <level>INFO</level>
+  <class>HomeWorkSeminar2.Task2</class>
+  <method>SortArray</method>
+  <thread>1</thread>
+  <message>Cycle iteration!</message>
+</record>
+<record>
+  <date>2023-03-14T14:13:33.701040700Z</date>
+  <millis>1678803213701</millis>
+  <nanos>40700</nanos>
+  <sequence>3</sequence>
+  <logger>HomeWorkSeminar2.Task2</logger>
+  <level>INFO</level>
+  <class>HomeWorkSeminar2.Task2</class>
+  <method>SortArray</method>
+  <thread>1</thread>
+  <message>Cycle iteration!</message>
+</record>
+<record>
+  <date>2023-03-14T14:13:33.701040700Z</date>
+  <millis>1678803213701</millis>
+  <nanos>40700</nanos>
+  <sequence>4</sequence>
+  <logger>HomeWorkSeminar2.Task2</logger>
+  <level>INFO</level>
+  <class>HomeWorkSeminar2.Task2</class>
+  <method>SortArray</method>
+  <thread>1</thread>
+  <message>Cycle iteration!</message>
+</record>
+<record>
+  <date>2023-03-14T14:13:33.709186100Z</date>
+  <millis>1678803213709</millis>
+  <nanos>186100</nanos>
+  <sequence>5</sequence>
+  <logger>HomeWorkSeminar2.Task2</logger>
+  <level>INFO</level>
+  <class>HomeWorkSeminar2.Task2</class>
+  <method>SortArray</method>
+  <thread>1</thread>
+  <message>Cycle iteration!</message>
+</record>
+<record>
+  <date>2023-03-14T14:13:33.709186100Z</date>
+  <millis>1678803213709</millis>
+  <nanos>186100</nanos>
+  <sequence>6</sequence>
+  <logger>HomeWorkSeminar2.Task2</logger>
+  <level>INFO</level>
+  <class>HomeWorkSeminar2.Task2</class>
+  <method>SortArray</method>
+  <thread>1</thread>
+  <message>Cycle iteration!</message>
+</record>
+<record>
+  <date>2023-03-14T14:13:33.709186100Z</date>
+  <millis>1678803213709</millis>
+  <nanos>186100</nanos>
+  <sequence>7</sequence>
+  <logger>HomeWorkSeminar2.Task2</logger>
+  <level>INFO</level>
+  <class>HomeWorkSeminar2.Task2</class>
+  <method>SortArray</method>
+  <thread>1</thread>
+  <message>Cycle iteration!</message>
+</record>
+<record>
+  <date>2023-03-14T14:13:33.709186100Z</date>
+  <millis>1678803213709</millis>
+  <nanos>186100</nanos>
+  <sequence>8</sequence>
+  <logger>HomeWorkSeminar2.Task2</logger>
+  <level>INFO</level>
+  <class>HomeWorkSeminar2.Task2</class>
+  <method>SortArray</method>
+  <thread>1</thread>
+  <message>Cycle iteration!</message>
+</record>
+<record>
+  <date>2023-03-14T14:13:33.709186100Z</date>
+  <millis>1678803213709</millis>
+  <nanos>186100</nanos>
+  <sequence>9</sequence>
+  <logger>HomeWorkSeminar2.Task2</logger>
+  <level>INFO</level>
+  <class>HomeWorkSeminar2.Task2</class>
+  <method>SortArray</method>
+  <thread>1</thread>
+  <message>Cycle iteration!</message>
+</record>
+<record>
+  <date>2023-03-14T14:13:33.709186100Z</date>
+  <millis>1678803213709</millis>
+  <nanos>186100</nanos>
+  <sequence>10</sequence>
+  <logger>HomeWorkSeminar2.Task2</logger>
+  <level>INFO</level>
+  <class>HomeWorkSeminar2.Task2</class>
+  <method>SortArray</method>
+  <thread>1</thread>
+  <message>Cycle iteration!</message>
+</record>
+<record>
+  <date>2023-03-14T14:13:33.709186100Z</date>
+  <millis>1678803213709</millis>
+  <nanos>186100</nanos>
+  <sequence>11</sequence>
+  <logger>HomeWorkSeminar2.Task2</logger>
+  <level>INFO</level>
+  <class>HomeWorkSeminar2.Task2</class>
+  <method>SortArray</method>
+  <thread>1</thread>
+  <message>Cycle iteration!</message>
+</record>
+<record>
+  <date>2023-03-14T14:13:33.717381700Z</date>
+  <millis>1678803213717</millis>
+  <nanos>381700</nanos>
+  <sequence>12</sequence>
+  <logger>HomeWorkSeminar2.Task2</logger>
+  <level>INFO</level>
+  <class>HomeWorkSeminar2.Task2</class>
+  <method>SortArray</method>
+  <thread>1</thread>
+  <message>Cycle iteration!</message>
+</record>
+<record>
+  <date>2023-03-14T14:13:33.717381700Z</date>
+  <millis>1678803213717</millis>
+  <nanos>381700</nanos>
+  <sequence>13</sequence>
+  <logger>HomeWorkSeminar2.Task2</logger>
+  <level>INFO</level>
+  <class>HomeWorkSeminar2.Task2</class>
+  <method>SortArray</method>
+  <thread>1</thread>
+  <message>Cycle iteration!</message>
+</record>
+<record>
+  <date>2023-03-14T14:13:33.717381700Z</date>
+  <millis>1678803213717</millis>
+  <nanos>381700</nanos>
+  <sequence>14</sequence>
+  <logger>HomeWorkSeminar2.Task2</logger>
+  <level>INFO</level>
+  <class>HomeWorkSeminar2.Task2</class>
+  <method>SortArray</method>
+  <thread>1</thread>
+  <message>Cycle iteration!</message>
+</record>
+<record>
+  <date>2023-03-14T14:13:33.717381700Z</date>
+  <millis>1678803213717</millis>
+  <nanos>381700</nanos>
+  <sequence>15</sequence>
+  <logger>HomeWorkSeminar2.Task2</logger>
+  <level>INFO</level>
+  <class>HomeWorkSeminar2.Task2</class>
+  <method>SortArray</method>
+  <thread>1</thread>
+  <message>Cycle iteration!</message>
+</record>
+<record>
+  <date>2023-03-14T14:13:33.717381700Z</date>
+  <millis>1678803213717</millis>
+  <nanos>381700</nanos>
+  <sequence>16</sequence>
+  <logger>HomeWorkSeminar2.Task2</logger>
+  <level>INFO</level>
+  <class>HomeWorkSeminar2.Task2</class>
+  <method>SortArray</method>
+  <thread>1</thread>
+  <message>Cycle iteration!</message>
+</record>
+<record>
+  <date>2023-03-14T14:13:33.717381700Z</date>
+  <millis>1678803213717</millis>
+  <nanos>381700</nanos>
+  <sequence>17</sequence>
+  <logger>HomeWorkSeminar2.Task2</logger>
+  <level>INFO</level>
+  <class>HomeWorkSeminar2.Task2</class>
+  <method>SortArray</method>
+  <thread>1</thread>
+  <message>Cycle iteration!</message>
+</record>
+<record>
+  <date>2023-03-14T14:13:33.725187400Z</date>
+  <millis>1678803213725</millis>
+  <nanos>187400</nanos>
+  <sequence>18</sequence>
+  <logger>HomeWorkSeminar2.Task2</logger>
+  <level>INFO</level>
+  <class>HomeWorkSeminar2.Task2</class>
+  <method>SortArray</method>
+  <thread>1</thread>
+  <message>Cycle iteration!</message>
+</record>
+<record>
+  <date>2023-03-14T14:13:33.725187400Z</date>
+  <millis>1678803213725</millis>
+  <nanos>187400</nanos>
+  <sequence>19</sequence>
+  <logger>HomeWorkSeminar2.Task2</logger>
+  <level>INFO</level>
+  <class>HomeWorkSeminar2.Task2</class>
+  <method>SortArray</method>
+  <thread>1</thread>
+  <message>Cycle iteration!</message>
+</record>
+<record>
+  <date>2023-03-14T14:13:33.725187400Z</date>
+  <millis>1678803213725</millis>
+  <nanos>187400</nanos>
+  <sequence>20</sequence>
+  <logger>HomeWorkSeminar2.Task2</logger>
+  <level>INFO</level>
+  <class>HomeWorkSeminar2.Task2</class>
+  <method>SortArray</method>
+  <thread>1</thread>
+  <message>Cycle iteration!</message>
+</record>
+<record>
+  <date>2023-03-14T14:13:33.725187400Z</date>
+  <millis>1678803213725</millis>
+  <nanos>187400</nanos>
+  <sequence>21</sequence>
+  <logger>HomeWorkSeminar2.Task2</logger>
+  <level>INFO</level>
+  <class>HomeWorkSeminar2.Task2</class>
+  <method>SortArray</method>
+  <thread>1</thread>
+  <message>Cycle iteration!</message>
+</record>
+<record>
+  <date>2023-03-14T14:13:33.725187400Z</date>
+  <millis>1678803213725</millis>
+  <nanos>187400</nanos>
+  <sequence>22</sequence>
+  <logger>HomeWorkSeminar2.Task2</logger>
+  <level>INFO</level>
+  <class>HomeWorkSeminar2.Task2</class>
+  <method>SortArray</method>
+  <thread>1</thread>
+  <message>Cycle iteration!</message>
+</record>
+<record>
+  <date>2023-03-14T14:13:33.733186400Z</date>
+  <millis>1678803213733</millis>
+  <nanos>186400</nanos>
+  <sequence>23</sequence>
+  <logger>HomeWorkSeminar2.Task2</logger>
+  <level>INFO</level>
+  <class>HomeWorkSeminar2.Task2</class>
+  <method>SortArray</method>
+  <thread>1</thread>
+  <message>Cycle iteration!</message>
+</record>
+<record>
+  <date>2023-03-14T14:13:33.733186400Z</date>
+  <millis>1678803213733</millis>
+  <nanos>186400</nanos>
+  <sequence>24</sequence>
+  <logger>HomeWorkSeminar2.Task2</logger>
+  <level>INFO</level>
+  <class>HomeWorkSeminar2.Task2</class>
+  <method>SortArray</method>
+  <thread>1</thread>
+  <message>Cycle iteration!</message>
+</record>
+</log>
