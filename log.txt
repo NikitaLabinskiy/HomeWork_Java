@@ -1,0 +1,48 @@
+мар. 14, 2023 5:04:35 PM HomeWorkSeminar2.Task2 SortArray
+INFO: Cycle iteration!
+мар. 14, 2023 5:04:36 PM HomeWorkSeminar2.Task2 SortArray
+INFO: Cycle iteration!
+мар. 14, 2023 5:04:36 PM HomeWorkSeminar2.Task2 SortArray
+INFO: Cycle iteration!
+мар. 14, 2023 5:04:36 PM HomeWorkSeminar2.Task2 SortArray
+INFO: Cycle iteration!
+мар. 14, 2023 5:04:36 PM HomeWorkSeminar2.Task2 SortArray
+INFO: Cycle iteration!
+мар. 14, 2023 5:04:36 PM HomeWorkSeminar2.Task2 SortArray
+INFO: Cycle iteration!
+мар. 14, 2023 5:04:36 PM HomeWorkSeminar2.Task2 SortArray
+INFO: Cycle iteration!
+мар. 14, 2023 5:04:36 PM HomeWorkSeminar2.Task2 SortArray
+INFO: Cycle iteration!
+мар. 14, 2023 5:04:36 PM HomeWorkSeminar2.Task2 SortArray
+INFO: Cycle iteration!
+мар. 14, 2023 5:04:36 PM HomeWorkSeminar2.Task2 SortArray
+INFO: Cycle iteration!
+мар. 14, 2023 5:04:36 PM HomeWorkSeminar2.Task2 SortArray
+INFO: Cycle iteration!
+мар. 14, 2023 5:04:36 PM HomeWorkSeminar2.Task2 SortArray
+INFO: Cycle iteration!
+мар. 14, 2023 5:04:36 PM HomeWorkSeminar2.Task2 SortArray
+INFO: Cycle iteration!
+мар. 14, 2023 5:04:36 PM HomeWorkSeminar2.Task2 SortArray
+INFO: Cycle iteration!
+мар. 14, 2023 5:04:36 PM HomeWorkSeminar2.Task2 SortArray
+INFO: Cycle iteration!
+мар. 14, 2023 5:04:36 PM HomeWorkSeminar2.Task2 SortArray
+INFO: Cycle iteration!
+мар. 14, 2023 5:04:36 PM HomeWorkSeminar2.Task2 SortArray
+INFO: Cycle iteration!
+мар. 14, 2023 5:04:36 PM HomeWorkSeminar2.Task2 SortArray
+INFO: Cycle iteration!
+мар. 14, 2023 5:04:36 PM HomeWorkSeminar2.Task2 SortArray
+INFO: Cycle iteration!
+мар. 14, 2023 5:04:36 PM HomeWorkSeminar2.Task2 SortArray
+INFO: Cycle iteration!
+мар. 14, 2023 5:04:36 PM HomeWorkSeminar2.Task2 SortArray
+INFO: Cycle iteration!
+мар. 14, 2023 5:04:36 PM HomeWorkSeminar2.Task2 SortArray
+INFO: Cycle iteration!
+мар. 14, 2023 5:04:36 PM HomeWorkSeminar2.Task2 SortArray
+INFO: Cycle iteration!
+мар. 14, 2023 5:04:36 PM HomeWorkSeminar2.Task2 SortArray
+INFO: Cycle iteration!
