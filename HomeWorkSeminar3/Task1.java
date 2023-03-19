@@ -1,3 +1,4 @@
+// Реализовать алгоритм сортировки слиянием
 package HomeWorkSeminar3;
 
 import java.util.Random;
