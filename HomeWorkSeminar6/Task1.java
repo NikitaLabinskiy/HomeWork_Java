@@ -87,6 +87,7 @@ public class Task1 {
         FilterArgument(laptop10, number, number2);
         FilterArgument(laptop11, number, number2);
         FilterArgument(laptop12, number, number2);
+        scanner.close();
     }
 
     public static int FilterArgument(LapTopClass laptop, int number, int i) {
